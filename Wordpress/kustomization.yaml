@@ -3,5 +3,5 @@ secretGenerator:
   literals:
   - password=test
 resources:
-  - Backend_mysql_deployment.yaml
-  - FrontendEnd_wp_deployment.yaml
+  - A_Backend_mysql_deployment.yaml
+  - B_FrontendEnd_wp_deployment.yaml
