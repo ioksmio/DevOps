@@ -1,2 +1,2 @@
 # DevOps
-DevOps Online
+DevOps always Online
